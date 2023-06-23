@@ -1,0 +1,6 @@
+jax[cpu]
+jupyterlab
+matplotlib
+seaborn
+black
+ipympl
