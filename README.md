@@ -1,5 +1,5 @@
-# 2003-diff-prog-workshop
-Associated with Munich Differential Programming Workshop
+# 2023-diff-prog-workshop
+Associated with [Munich Differential Programming Workshop](https://www.munich-iapbp.de/probabilistic-programming)
 
 
 # Installation
